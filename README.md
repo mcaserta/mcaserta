@@ -15,8 +15,8 @@ radio as **IK0ZSN**.
 
 <!-- BLOG-POST-LIST:START -->
 - [Frolic](https://mirkocaserta.com/posts/frolic/)
+- [The shell&amp;apos;s `until` loop](https://mirkocaserta.com/posts/until/)
 - [Pizza Paper Specs](https://mirkocaserta.com/posts/pizza-paper-specs/)
 - [Rabbit Hole](https://mirkocaserta.com/posts/rabbit-hole/)
 - [Belt-and-Suspenders Safety](https://mirkocaserta.com/posts/belt-and-suspenders/)
-- [Pipe-delimited arrays in Bash](https://mirkocaserta.com/posts/pipe-delimited-arrays-in-bash/)
 <!-- BLOG-POST-LIST:END -->
