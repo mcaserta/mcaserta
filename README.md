@@ -14,9 +14,9 @@ radio as **IK0ZSN**.
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A madman](https://mirkocaserta.com/posts/un-matto/)
 - [Unhinged](https://mirkocaserta.com/posts/unhinged/)
 - [Hectoring](https://mirkocaserta.com/posts/hectoring/)
 - [Touch ID for sudo in Ghostty and zellij](https://mirkocaserta.com/posts/touchid-sudo-ghostty-zellij/)
 - [Frolic](https://mirkocaserta.com/posts/frolic/)
-- [The shell&amp;apos;s `until` loop](https://mirkocaserta.com/posts/until/)
 <!-- BLOG-POST-LIST:END -->
