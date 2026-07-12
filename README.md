@@ -14,9 +14,9 @@ radio as **IK0ZSN**.
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Songs](https://mirkocaserta.com/posts/songs/)
 - [Fifty-one years for a word](https://mirkocaserta.com/posts/diagnosi-autismo/)
 - [A madman](https://mirkocaserta.com/posts/un-matto/)
 - [Unhinged](https://mirkocaserta.com/posts/unhinged/)
 - [Hectoring](https://mirkocaserta.com/posts/hectoring/)
-- [Touch ID for sudo in Ghostty and zellij](https://mirkocaserta.com/posts/touchid-sudo-ghostty-zellij/)
 <!-- BLOG-POST-LIST:END -->
