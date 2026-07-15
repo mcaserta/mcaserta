@@ -14,9 +14,9 @@ radio as **IK0ZSN**.
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After the diagnosis: the privilege of being able to afford it](https://mirkocaserta.com/posts/dopo-la-diagnosi-follow-up/)
 - [Songs](https://mirkocaserta.com/posts/songs/)
 - [Fifty-one years for a word](https://mirkocaserta.com/posts/diagnosi-autismo/)
 - [A madman](https://mirkocaserta.com/posts/un-matto/)
 - [Unhinged](https://mirkocaserta.com/posts/unhinged/)
-- [Hectoring](https://mirkocaserta.com/posts/hectoring/)
 <!-- BLOG-POST-LIST:END -->
