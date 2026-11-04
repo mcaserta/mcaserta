@@ -14,9 +14,9 @@ radio as **IK0ZSN**.
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [After the diagnosis: the privilege of being able to afford it](https://mirkocaserta.com/posts/dopo-la-diagnosi-follow-up/)
-- [Songs](https://mirkocaserta.com/posts/songs/)
-- [Fifty-one years for a word](https://mirkocaserta.com/posts/diagnosi-autismo/)
-- [A madman](https://mirkocaserta.com/posts/un-matto/)
-- [Unhinged](https://mirkocaserta.com/posts/unhinged/)
+- [One Man Tribe &lpar;Vol. I&rpar;](https://mirkocaserta.com/music/one-man-tribe-vol-i/)
+- [After the diagnosis: the privilege of being able to afford it](https://mirkocaserta.com/misc/dopo-la-diagnosi-follow-up/)
+- [Songs](https://mirkocaserta.com/music/songs/)
+- [Fifty-one years for a word](https://mirkocaserta.com/misc/diagnosi-autismo/)
+- [A madman](https://mirkocaserta.com/misc/un-matto/)
 <!-- BLOG-POST-LIST:END -->
